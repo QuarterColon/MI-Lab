@@ -1,6 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="23008000">
-	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+<Project Type="Project" LVVersion="21008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -14,8 +13,6 @@
 		<Item Name="exercise example 1.vi" Type="VI" URL="../exercise example 1.vi"/>
 		<Item Name="exercise example 2.vi" Type="VI" URL="../exercise example 2.vi"/>
 		<Item Name="exercise example 3.vi" Type="VI" URL="../exercise example 3.vi"/>
-		<Item Name="MI-Lab.aliases" Type="Document" URL="../MI-Lab.aliases"/>
-		<Item Name="MI-Lab.lvlps" Type="Document" URL="../MI-Lab.lvlps"/>
 		<Item Name="W1Q1.vi" Type="VI" URL="../W1Q1.vi"/>
 		<Item Name="W1Q2.vi" Type="VI" URL="../W1Q2.vi"/>
 		<Item Name="W2E.vi" Type="VI" URL="../W2E.vi"/>
@@ -24,8 +21,6 @@
 		<Item Name="W2Q1.vi" Type="VI" URL="../W2Q1.vi"/>
 		<Item Name="W2Q2.vi" Type="VI" URL="../W2Q2.vi"/>
 		<Item Name="W2Q3.vi" Type="VI" URL="../W2Q3.vi"/>
-		<Item Name="W3Q1.vi" Type="VI" URL="../W3Q1.vi"/>
-		<Item Name="W3Q2.vi" Type="VI" URL="../W3Q2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
